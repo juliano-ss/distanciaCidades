@@ -15,4 +15,5 @@ Basta executar o programa para obter o resultado. Não é necessário passar nen
 
 ## Autor
 
-Este programa foi criado por JULIANO DE SOUZA, com o intuito de estudos.
+Este programa foi criado por JULIANO DE SOUZA, com o intuito de estudos, e prática de lógica
+de programação.
