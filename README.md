@@ -1,6 +1,6 @@
 # DistanciaCidades
 
-Este é um projeto Java que calcula a distância entre duas cidades, Ribeirão Preto e Franca, utilizando as informações de velocidade de um carro e um caminhão e o tempo gasto por um caminhão em um pedágio.
+Este é um projeto Java que calcula a distância entre duas cidades, Ribeirão Preto e Franca, utilizando as informações de velocidad de um carro e um caminhão e tempo gasto por um caminhão em um pedágio.
 
 ## Funcionamento
 
